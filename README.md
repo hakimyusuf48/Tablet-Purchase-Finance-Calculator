@@ -15,4 +15,4 @@ This is project I made on second year of my Software Engineering degree. The pro
 ---
 
 > App shows errors
-> <img width="300" height="667" alt="App error" src="https://github.com/user-attachments/assets/29a94a57-0819-48df-bc09-b57d987f3993" />
+<img width="300" height="667" alt="App error" src="https://github.com/user-attachments/assets/29a94a57-0819-48df-bc09-b57d987f3993" />
